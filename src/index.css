@@ -1,0 +1,16 @@
+*{margin: 0; background-color:steelblue; color: white; padding: 0%;}
+
+body{
+  width: 500px;
+  margin:0 auto;
+}
+.lable{
+     background-color: rgb(207, 232, 220);
+     border:2px solid
+     rgb(79, 185, 227);
+     padding: 10px;
+     margin:10px;
+     border-radius: 5px;
+     
+}
+  
