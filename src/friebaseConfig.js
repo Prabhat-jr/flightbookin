@@ -6,12 +6,7 @@ import { initializeApp } from "firebase/app";
 import {getAuth} from "firebase/auth"
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyC1xm7lO8pG2kK9aPTHiE55RXJC2gbn0aA",
-  authDomain: "flight-booking-web.firebaseapp.com",
-  projectId: "flight-booking-web",
-  storageBucket: "flight-booking-web.appspot.com",
-  messagingSenderId: "133269291674",
-  appId: "1:133269291674:web:79f872e34f810ebe561523"
+  
 };
 
 // Initialize Firebase
