@@ -7,14 +7,15 @@
 }
 .homeTitle {
   width: 1024px;
-  font-size: 20px;
+  font-size: 207x;
+  margin-left: 0px;
 }
 .heading {
   width: 1024px;
-  font-size: 20px;
+  font-size: 27px;
 
   margin: 0;
-  margin-top: -15px;
+
 }
 .page {
   width: 1024px;

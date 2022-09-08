@@ -10,6 +10,7 @@
 
 # production
 /build
+/friebaseConfig
 
 # misc
 .DS_Store

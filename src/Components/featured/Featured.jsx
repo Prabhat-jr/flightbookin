@@ -13,7 +13,7 @@ const Featured = () => {
             //   className="featuredImg"
           />
           <div className="featuredTitles">
-            <h1> {val.name}</h1>
+            <h1 className="property"> {val.name}</h1>
             <h3>{val.properties}</h3>
           </div>
         </div>

@@ -109,3 +109,7 @@
 .optionCounterButton:disabled {
   cursor: not-allowed;
 }
+.headerTitle{
+  display: flex;
+  margin-left: 5px;
+}

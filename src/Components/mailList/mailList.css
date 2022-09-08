@@ -25,3 +25,12 @@ button {
   border-radius: 5px;
   cursor: pointer;
 }
+.mailTitle{
+  margin-left: 3px;
+}
+.mailDesc{
+  margin-left: -20px;
+}
+.mailInputContainer{
+  margin-left: 24px;
+}
